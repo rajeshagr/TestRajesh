@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <local>
   <messages>
+    ! Test By Rajesh
     <message id="bPreCheckRegPrtData.CurrentAdjuster">Current Adjuster: %%1</message>
     <message id="bPreCheckRegPrtData.NoCurrentAdjuster">No Current Adjuster</message>
     <message id="bPreCheckRegPrtData.CurrentSubAccount">Sub Bank Account: %%1</message>
